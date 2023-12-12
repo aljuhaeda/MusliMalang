@@ -33,3 +33,22 @@ To get started with MusliMalang, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/MusliMalang.git
+
+1. **Navigate to the Project Directory:**
+   ```bash
+   cd MusliMalang
+   
+1. **CInstall Dependencies:**
+   ```bash
+   flutter pub get
+   
+1. **Run the Application:**
+   ```bash
+   flutter run
+   
+## Contributing
+We welcome contributions from the community. If you have suggestions, found a bug, or want to contribute to MusliMalang, please follow our contribution guidelines.
+
+## License
+MusliMalang is licensed under the MIT License.
+
